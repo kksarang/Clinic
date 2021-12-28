@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clinx</string>
+    <string-array name="filterby">
+        <item>Filter By</item>
+        <item>Hospital</item>
+
+        <item>Casualty</item>
+
+        <item>Medicine</item>
+
+        <item>Doctor</item>
+
+    </string-array>
+</resources>
